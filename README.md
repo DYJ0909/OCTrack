@@ -1,0 +1,1 @@
+We provide the tracking results of OCTrack on five public RGBT tracking benchmarks, including GTOT, RGBT210, RGBT234, LasHeR, and VTUAV. All result files have been uploaded in compressed packages for public evaluation and fair comparison. The full source code, trained models, and detailed instructions will be made publicly available after the paper is accepted.
